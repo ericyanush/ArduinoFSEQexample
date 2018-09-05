@@ -1,0 +1,18 @@
+{
+    "name": "FSEQParser",
+    "keywords": "fseq, sequence",
+    "description": "Arduino library for parsing FSEQ lighting sequence",
+    "authors":
+    {
+        "name": "Bill Porter",
+        "email": "github@billporter.info",
+        "url": "http://www.billporter.info"
+    },
+    "repository":
+    {
+        "type": "git",
+        "url": "https://github.com/ericyanush/ArduinoFSEQexample"
+    },
+    "frameworks": "arduino",
+    "platforms": "*"
+}
